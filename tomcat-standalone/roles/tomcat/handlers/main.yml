@@ -1,6 +1,9 @@
 ---
 - name: restart tomcat
   service: name=tomcat state=restarted
+  # note points
 
 - name: restart iptables
   service: name=iptables state=restarted
+  # my git practice
+
