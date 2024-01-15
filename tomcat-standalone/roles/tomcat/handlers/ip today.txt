@@ -1,0 +1,26 @@
+
+v2 54.206.66.187  172.31.5.170   13.211.123.251
+v1 54.206.66.187  172.31.5.170   13.211.123.251
+wb 3.27.203.160   172.31.15.178  3.106.228.229
+
+
+
+http://54.206.66.187:8080/sample/   #tomcatv1
+http://54.206.66.187:8080/sample/   #tomcatv2
+
+http://54.206.66.187:8080/sample/
+http://54.206.66.187:8080/sample/
+
+http://3.27.203.160:80/sample/  #webserver
+
+3.27.203.160
+
+cd /etc/httpd/conf.d
+
+cd /apps/www/samplewebsite
+
+cd /apps/tomcat/tc9/bin
+
+cd /apps/tomcat/tc9/conf
+
+
